@@ -1,4 +1,0 @@
-mor
-===
-
-MPD Rails WebUI
