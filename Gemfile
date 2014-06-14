@@ -22,3 +22,7 @@ group :development do
   gem 'rspec-rails'
   gem "spring-commands-rspec"
 end
+
+group :test do
+  gem 'shoulda-matchers', require: false
+end
