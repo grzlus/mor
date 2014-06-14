@@ -12,6 +12,7 @@ group :assets do
   gem 'jquery-rails'
 end
 
+gem 'devise'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 
